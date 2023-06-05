@@ -16,6 +16,7 @@ This is an iOS application designed for seniors to exercise their brains and pre
 ## Usage
 
 Start the application, choose a level you like, then start counting cubes and answering the correct number. You can use the AR mode to view and count these cubes in the real world.
+Show pictures https://photos.app.goo.gl/MXY1uX46FKX4i1wQ8
 
 ## Development
 
