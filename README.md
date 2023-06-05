@@ -9,13 +9,13 @@ This is an iOS application designed for seniors to exercise their brains and pre
 
 ## Installation
 
-1.Download the repository to your local machine.
-2.Open the project in Xcode.
+1.Download the repository to your local machine.   
+2.Open the project in Xcode.   
 3.Run the project on a supported physical device.
 
 ## Usage
 
-Start the application, choose a level you like, then start counting cubes and answering the correct number. You can use the AR mode to view and count these cubes in the real world.
+Start the application, choose a level you like, then start counting cubes and answering the correct number. You can use the AR mode to view and count these cubes in the real world.   
 Show pictures https://photos.app.goo.gl/MXY1uX46FKX4i1wQ8
 
 ## Development
