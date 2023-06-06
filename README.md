@@ -1,6 +1,6 @@
 # CountingCubes
 
-This is an iOS application designed for seniors to exercise their brains and prevent dementia. Users enter any level, count the correct number of cubes in the model, and answer it. Please note, this app needs to be used on an iPhone or iPad with iOS 16.0 or iPadOS 16.0 or above.
+This is an iOS application designed for seniors to exercise their brains and prevent dementia. Users enter any level, count the correct number of cubes in the model, and answer it. 
 
 ## Prerequisites
 
